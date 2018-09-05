@@ -1,2 +1,3 @@
-# gg
-1
+Lavrynychyk Luba 
+gruppa 3
+ISiT
